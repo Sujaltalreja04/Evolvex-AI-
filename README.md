@@ -184,7 +184,7 @@ This project was developed as part of the **Google Cloud Hackathon 2025**, showc
   - Fine-tuned Ollama LLM integration for local AI processing
   - Managed model training, optimization, and deployment
 
-#### **Krutik Kothari**
+#### **Krutik Soni**
 - 🚀 **Role**: Frontend Developer, ML Pipeline Engineer
 - 💼 **Contributions**:
   - Developed the intuitive Streamlit frontend interface
